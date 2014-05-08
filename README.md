@@ -1,3 +1,5 @@
+Forked to fix railtie dependency in gemspec for use with Rails 4.
+
 # JqueryTransit::Rails
 
 Gemifies jquerytransit: https://github.com/rstacruz/jquery.transit
